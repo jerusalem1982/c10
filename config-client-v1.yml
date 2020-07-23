@@ -3,4 +3,4 @@ server:
   port: 3001
 # 当前版本信息
 version:
-  message: 20200720发布第一个版本
+  message: '{cipher}61d34ee1e622e17fb21417bc0c4e8d5df32306d2c9cb07533c4cffd00796f265fae3facab2ef42d020a84acdd4fb75f7'
